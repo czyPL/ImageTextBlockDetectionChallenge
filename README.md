@@ -1,5 +1,6 @@
 <p align="center">
-    <a href="https://challenge.xfyun.cn/topic/info?type=image-text&ch=0y8g5ox">图像文本块检测挑战赛解决方案</a>
+
+ # <a href="https://challenge.xfyun.cn/topic/info?type=image-text&ch=0y8g5ox">图片文本块检测挑战赛</a>解决方案分享
 </p>
 <p align="center">
     <a href="https://challenge.xfyun.cn/?ch=0y8g5ox">2023 iFLYTEK DEVELOPER COMPETATION</a><br>
@@ -15,5 +16,5 @@
     <img src="images/auxiliary_annotating.png" width="400" />
 <p>
 
-以DBNet为基础进行行检测，对行检测结果进行合并。
+思路：以DBNet为基础进行行检测，对行检测结果进行合并。
 
