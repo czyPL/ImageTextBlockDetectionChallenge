@@ -12,7 +12,7 @@
 
 # 辅助标注工具
 <p align="center">
-    <img src="images/ITBD-690" width="400" />
+    <img src="images/auxiliary_annotating.png" width="400" />
 <p>
 
 以DBNet为基础进行行检测，对行检测结果进行合并。
