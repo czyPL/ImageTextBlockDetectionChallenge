@@ -15,5 +15,5 @@
     <img src="images/auxiliary_annotating.png" width="400" />
 <p>
 
-思路：以DBNet为基础进行行检测，对行检测结果进行合并。
+思路：构建辅助标注工具，对爬取的300张包含文本的图像进行半自动化标注，用于训练YOLOv8模型。辅助标注工具以DBNet为基础，参考PSENet的边框合并方法（ <a href="https://blog.csdn.net/jhsignal/article/details/107840145">边框合并</a><br>），通过手动调整阈值在横纵两方向合并检测框。
 
